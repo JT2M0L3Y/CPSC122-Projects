@@ -1,0 +1,15 @@
+Pet Store CSV Summary Report
+
+----------------------------
+
+
+Pet Stores: Fur Get Me Not, Pick of the Litter, For Pet's Sake
+Total Number of Pets: 7
+
+
+Pet store with the most pets: Fur Get Me Not
+Number of pets at Fur Get Me Not: 3
+
+
+Pet average days on site across all stores: 31
+Employee pet of the month choice: "Lame Duck"
